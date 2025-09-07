@@ -1,0 +1,1 @@
+ld65 basic.o -o basic.bin -C basic6502.cfg
